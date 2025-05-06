@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **sql, Python, AWS**
 
-💬 Ask me about **python, java, or sql... or anything [here](https://github.com/shacquilleedwards/Learning_coding.git)**
+💬 Ask me about **python, java, or sql... or anything [here](https://github.com/discussions)**
 
 ⚡ Fun fact **I enjoy sports, coding,family time & hanging with friends!**
 
