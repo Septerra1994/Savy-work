@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shacquille+Edwards!;" />
 </h1>
 
-<h3 align="center">A passionate software quality engineer lead from St. Louis</h3>
+<h3 align="center">A passionate cybersecurity student from St. Louis</h3>
 
 <br/>
 
@@ -24,7 +24,7 @@
   <a href="mailto:Shacquillee96@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/shacquille-edwards" target="_blank">
+  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 
