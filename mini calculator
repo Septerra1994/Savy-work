@@ -1,0 +1,15 @@
+def calculate(num1, num2, operation):
+    if operation == 'add':
+        return num1 + num2
+    elif operation == 'multiply':
+        return num1 * num2
+    elif operation == 'subtract':
+        return num1 - num2
+    else:
+        return "cannot opperate"
+print(calculate(37, 6, 'multiply'))
+print(calculate(50, 33, 'add'))
+print(calculate(17, 8, 'subtract'))
+print(calculate(25, 5, 'divide'))
+
+
